@@ -21,6 +21,6 @@ githowto.com.ru
 {сделали изменения в файлах, сохранили}
 7 git add .
 8 git commit -m "second changes"
-9 git push https://github.com/developerc/firstgit.git
+9 git push https://github.com/developerc/P1383_Location.git
 {поместили изменения в удаленный репозиторий (ввели логин/пароль)}
 
