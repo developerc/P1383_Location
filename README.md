@@ -23,3 +23,4 @@ githowto.com.ru
 8 git commit -m "second changes"
 9 git push https://github.com/developerc/firstgit.git
 {поместили изменения в удаленный репозиторий (ввели логин/пароль)}
+
